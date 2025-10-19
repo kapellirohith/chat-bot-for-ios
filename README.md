@@ -70,6 +70,3 @@ This app is not just a chatbot. It’s a personal research partner, a visual ana
 - Some features depend on platform availability (for example, background tasks on iOS).
 - Image and file capabilities vary by format and model support.
 
----
-
-If you’d like, I can also add a table of contents, a contributing guide, and license details.
